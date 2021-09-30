@@ -1,7 +1,7 @@
 import sqlalchemy
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import session
-from sqlalchemy import update
+# Elvis Miranda 4-803-2349
 
 # lo usamos para conectarnos a la database con sqlalchemy
 # debemos pasarle los datos como password, username port etc de nuestra configuracion en mariadb
