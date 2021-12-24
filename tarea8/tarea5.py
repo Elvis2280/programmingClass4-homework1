@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, jsonify
 from flask_restful import Resource, Api, reqparse
 import requests
 
+##t4e
 import redis
 keyPalabra = "palabra"
 keyDefinicion = "definicion"
